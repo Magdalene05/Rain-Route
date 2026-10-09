@@ -1,0 +1,6 @@
+{
+  "name": "RainRoute",
+  "description": "Smart Flood-Safe Navigation for Every Rainy Day by Team NEXUS (St. Mother Theresa Engineering College, Thoothukudi).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
